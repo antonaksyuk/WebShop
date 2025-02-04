@@ -1,17 +1,34 @@
-# Design
+# Design Overview for Amazon Website Clone
 
-## Project's design overview
+## Goal
 
-> Give an overview of your project's design
+The goal of this project is to replicate the main page of Amazon's website using
+HTML, CSS, and possibly JavaScript.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+## User Interface Design
 
----
+### Layout
 
-## Wireframe(s)
+The layout will mimic Amazon's main page with a header, navigation bar, search
+functionality, product listings, and footer.
 
-> Include your wireframe(s) and link to wireframe
+### Colors and Styling
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+Colors will follow Amazon's branding with a focus on usability and
+accessibility. Fonts and icons will be chosen to match the original design as
+closely as possible.
+
+### Responsiveness
+
+The design will be responsive, ensuring compatibility across various devices and
+screen sizes.
+
+## Tools and Technologies
+
+- HTML5 for structure
+- CSS3 for styling
+- Possibly JavaScript for interactivity
+
+## Mockup
+
+![Amazon Website Clone Mockup](design.jpg)
